@@ -2,7 +2,7 @@ Menu Key: M
 Toggle Enable: None
 Toggle Render Type: None
 Toggle Zoom: None
-Toggle Large Map: None
+Toggle Large Map: C
 Toggle Large Map Label: None
 Toggle Waypoints Visible: None
 Toggle Waypoints Marker: None
