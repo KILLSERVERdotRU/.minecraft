@@ -1,0 +1,103 @@
+# Configuration file
+
+####################
+# achievement names
+####################
+
+"achievement names" {
+    S:NetherFurnaceAchievement=Super Furnace
+    S:NetherRocksAchievement=Welcome to Netherrocks!
+}
+
+
+####################
+# armor names
+####################
+
+"armor names" {
+    S:DragonstoneBootsName=Dragonstone Boots
+    S:DragonstoneChestName=Dragonstone Chestplate
+    S:DragonstoneHelmName=Dragonstone Helmet
+    S:DragonstoneLegsName=Dragonstone Leggings
+    S:FyriteBootsName=Fyrite Boots
+    S:FyriteChestName=Fyrite Chestplate
+    S:FyriteHelmName=Fyrite Helmet
+    S:FyriteLegsName=Fyrite Leggings
+    S:IllumeniteBootsName=Illumenite Boots
+    S:IllumeniteChestName=Illumenite Chestplate
+    S:IllumeniteHelmName=Illumenite Helmet
+    S:IllumeniteLegsName=Illumenite Leggings
+    S:MalachiteBootsName=Malachite Boots
+    S:MalachiteChestName=Malachite Chestplate
+    S:MalachiteHelmName=Malachite Helmet
+    S:MalachiteLegsName=Malachite Leggings
+}
+
+
+####################
+# block names
+####################
+
+"block names" {
+    S:ArgoniteOreName=Argonite Ore
+    S:ArgontieBlockName=Argonite Block
+    S:AshstoneBlockName=Ashstone Block
+    S:AshstoneOreName=Ashstone Ore
+    S:DragonstoneBlockName=Dragonstone Block
+    S:DragonstoneOreName=Dragonstone Ore
+    S:FyriteBlockName=Fyrite Block
+    S:FyriteOreName=Fyrite Ore
+    S:IllumeniteBlockName=Illumenite Block
+    S:IllumeniteOreName=Illumenite Ore
+    S:MalachiteBlockName=Malachite Block
+    S:MalachiteOreName=Malachite Ore
+    S:NetherFurnaceName=Nether Furnace
+    S:NetherFurnaceOnName=Nether Furnace
+}
+
+
+####################
+# item names
+####################
+
+"item names" {
+    S:ArgoniteIngotName=Argonite Ingot
+    S:AshstoneGemName=Ashstone
+    S:DragonstoneGemName=Dragonstone
+    S:FyriteIngotName=Fyrite Ingot
+    S:IllumeniteIngotName=Illumenite Ingot
+    S:MalachiteIngotName=Malachite Ingot
+}
+
+
+####################
+# tool names
+####################
+
+"tool names" {
+    S:ArgoniteAxeName=Argonite Axe
+    S:ArgoniteHoeName=Argonite Hoe
+    S:ArgonitePickName=Argonite Pickaxe
+    S:ArgoniteShovelName=Argonite Shovel
+    S:ArgoniteSwordName=Argonite Sword
+    S:AshstoneAxeName=Ashstone Axe
+    S:AshstoneHoeName=Ashstone Hoe
+    S:AshstonePickName=Ashstone Pickaxe
+    S:AshstoneShovelName=Ashstone Shovel
+    S:AshstoneSwordName=Ashstone Sword
+    S:DragonstoneAxeName=Dragonstone Axe
+    S:DragonstoneHoeName=Dragonstone Hoe
+    S:DragonstonePickName=Dragonstone Pickaxe
+    S:DragonstoneShovelName=Dragonstone Shovel
+    S:DragonstoneSwordName=Dragonstone Sword
+    S:FyritePickName=Fyrite Pickaxe
+    S:FyriteSwordName=Fyrite Sword
+    S:IllumeniteSwordName=Illumenite Sword
+    S:MalachiteAxeName=Malachite Axe
+    S:MalachiteHoeName=Malachite Hoe
+    S:MalachitePickName=Malachite Pickaxe
+    S:MalachiteShovelName=Malachite Shovel
+    S:MalachiteSwordName=Malachite Sword
+}
+
+

@@ -1,0 +1,110 @@
+# Configuration file
+
+####################
+# achievement descriptions
+####################
+
+"achievement descriptions" {
+    S:BronzeAchievement=Craft you first alloy, a Bronze Ingot.
+    S:FusionFurnaceAchievement=Craft a Fusion Furnace to open up new possibilities.
+}
+
+
+####################
+# achievement names
+####################
+
+"achievement names" {
+    S:BronzeAchievement=My First Fusion
+    S:FusionFurnaceAchievement=Coalescence
+}
+
+
+####################
+# armor names
+####################
+
+"armor names" {
+    S:BronzeBootsName=Bronze Boots
+    S:BronzeChestname=Bronze Chestplate
+    S:BronzeHelmName=Bronze Helmet
+    S:BronzeLegsName=Bronze Leggings
+    S:SinisiteBootsName=Sinisite Boots
+    S:SinisiteChestname=Sinisite Chestplate
+    S:SinisiteHelmName=Sinisite Helmet
+    S:SinisiteLegsName=Sinisite Leggings
+    S:ThyriumBootsName=Thyrium Boots
+    S:ThyriumChestname=Thyrium Chestplate
+    S:ThyriumHelmName=Thyrium Helmet
+    S:ThyriumLegsName=Thyrium Leggings
+}
+
+
+####################
+# block names
+####################
+
+"block names" {
+    S:BronzeBlockName=Bronze Block
+    S:FusionFurnaceName=Fusion Furnace
+    S:FusionFurnaceOnName=Fusion Furnace
+    S:SinisiteBlockName=Sinisite Block
+    S:ThyriumBlockName=Thyrium Block
+}
+
+
+####################
+# item names
+####################
+
+"item names" {
+    S:BronzeChunkLargeName=Large Bronze Chunk
+    S:BronzeChunkMediumName=Medium Bronze Chunk
+    S:BronzeChunkSmallName=Small Bronze Chunk
+    S:BronzeIngotName=Bronze Ingot
+    S:SinisiteChunkLargeName=Large Sinisite Chunk
+    S:SinisiteChunkMediumName=Medium Sinisite Chunk
+    S:SinisiteChunkSmallName=Small Sinisite Chunk
+    S:SinisiteIngotName=Sinisite Ingot
+    S:SinisiteRodName=Sinisite Rod
+    S:ThyriumChunkLargeName=Large Thyrium Chunk
+    S:ThyriumChunkMediumName=Medium Thyrium Chunk
+    S:ThyriumChunkSmallName=Small Thyrium Chunk
+    S:ThyriumIngotName=Thyrium Ingot
+    S:ThyriumRodName=Thyrium Rod
+}
+
+
+####################
+# tool names
+####################
+
+"tool names" {
+    S:BronzeAxeName=Bronze Axe
+    S:BronzeHoeName=Bronze Hoe
+    S:BronzePickName=Bronze Pickaxe
+    S:BronzeShovelName=Bronze Shovel
+    S:SinisiteAxeName=Sinisite Axe
+    S:SinisiteHoeName=Sinisite Hoe
+    S:SinisitePickName=Sinisite Pickaxe
+    S:SinisiteShovelName=Sinisite Shovel
+    S:ThyriumAxeName=Thyrium Axe
+    S:ThyriumHoeName=Thyrium Hoe
+    S:ThyriumPickName=Thyrium Pickaxe
+    S:ThyriumShovelName=Thyrium Shovel
+}
+
+
+####################
+# weapon names
+####################
+
+"weapon names" {
+    S:BronzeSwordName=Bronze Sword
+    S:SinisiteBowName=Sinisite Bow
+    S:SinisiteSwordName=Sinisite Sword
+    S:ThyriumBowName=Thyrium Bow
+    S:ThyriumSwordName=Thyrium Sword
+}
+
+
